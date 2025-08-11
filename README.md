@@ -1,9 +1,9 @@
 # 📊 Business Sales Dashboard – Power BI Project
 
-## 🔍 Task 1: E-Commerce Sales Analysis
+## 🔍 Task 1: Business Sales Dashboard 
 
 ### 🎯 Objective
-Analyze e-commerce data to identify:
+Analyze Business Sales data to identify:
 - Best-selling products
 - Monthly sales trends
 - Revenue by categories and regions
@@ -48,3 +48,4 @@ Analyze e-commerce data to identify:
 
 ### 🧾 License
 This project is for educational and portfolio purposes.
+
